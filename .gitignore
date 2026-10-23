@@ -1,0 +1,5 @@
+/build/
+/core/target/
+/app/.build/
+/app/Frameworks/
+.DS_Store
