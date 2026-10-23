@@ -1,0 +1,2 @@
+Model and symbol table from detypify-service 0.3.0 (MIT, https://github.com/QuarticCat/detypify).
+model.onnx was modified: an ONNX Loop that computed constant gather indices was replaced by the constant, so the model runs in tract. Outputs are identical.
